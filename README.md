@@ -27,6 +27,6 @@ Submit a [Pull Request] to this repository.
 
 # Contact Information:
 
-Alan Andres Haro - hello@aharo.dev
+- Alan Andres Haro - hello@aharo.dev
 - [Medium - Tech Blog](https://medium.com/@ithvaandres)
 - [Linkedin](https://www.linkedin.com/in/hvaandres/)
