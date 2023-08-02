@@ -1,6 +1,6 @@
 # palm_api_demo
 
-- The Sentiment Analyzer is an exciting demo project showcasing the power and capabilities of the PALM API by Google. This project aims to provide a user-friendly model that uses text-bison-001 & chat-bison-001.
+- The palm_api_demo is an exciting demo project showcasing the power and capabilities of the PALM API by Google. This project aims to provide a user-friendly model that uses text-bison-001 & chat-bison-001.
 - We train a basic model to chat with us and understand what we are asking to ensure the response is the one that we need.
 
 
